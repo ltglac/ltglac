@@ -2,8 +2,7 @@
 My name is Gia Lac, and I'm majoring in Information Security. My career interests are: Security Researchs, Penetration Testing and DevSecOps.<br>
 
 ## 📫 How to reach me: 
-
-[![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkedin.com/in/gia-l%E1%BA%A1c-l%C3%AA-tr%E1%BA%A7n-84a28a314/) [![GitHub](https://i.stack.imgur.com/tskMh.png) GitHub](https://github.com/ltglac) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gia-l%E1%BA%A1c-l%C3%AA-tr%E1%BA%A7n-84a28a314/)&nbsp;&nbsp;&nbsp; [![GitHub](https://img.shields.io/badge/GitHub-000?logo=github&logoColor=white)](https://github.com/ltglac) 
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> 
@@ -19,6 +18,6 @@ My name is Gia Lac, and I'm majoring in Information Security. My career interest
 <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a>
 
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ltglac&hide=stars,contribs&show_icons=true&theme=&border_color=71a9e&rank_icon=github&line_height=24&v=1)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ltglac&hide=stars,contribs&show_icons=true&theme=holi&border_color=71a9e&rank_icon=github&line_height=24)
 
 
