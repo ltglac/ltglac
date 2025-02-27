@@ -22,10 +22,13 @@ My name is Gia Lac, and I'm majoring in Information Security. My career interest
 
 <div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 10px;">
   <a href="https://github.com/ltglac/CoVulPecker">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=ltglac&repo=CoVulPecker&theme=tokyonight&v1" width="400">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=ltglac&repo=CoVulpecker&theme=tokyonight&v1" width="400">
   </a>
   <a href="https://github.com/ltglac/crypto-project">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=ltglac&repo=crypto-project&theme=radical&v1" width="400">
+  </a>
+   <a href="https://github.com/ltglac/Sorting-Algorithm-Time-Estimation">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=ltglac&repo=Sorting-Algorithm-time-Estimation&theme=radical&v1" width="400">
   </a>
 </div>
  
