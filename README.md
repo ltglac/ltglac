@@ -20,8 +20,6 @@ My name is Gia Lac, and I'm majoring in Information Security. My career interest
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ltglac&hide=stars,contribs&show_icons=true&theme=holi&border_color=71a9e&rank_icon=github&line_height=24)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ltglac&layout=compact)
-
 <div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 10px;">
   <a href="https://github.com/ltglac/CoVulPecker">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=ltglac&repo=CoVulPecker&theme=tokyonight" width="400">
